@@ -13,6 +13,7 @@
 		2C141BA02593490200829E47 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C141B9E2593490200829E47 /* Main.storyboard */; };
 		2C141BA22593490900829E47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C141BA12593490900829E47 /* Assets.xcassets */; };
 		2C141BA52593490900829E47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C141BA32593490900829E47 /* LaunchScreen.storyboard */; };
+		2C141BAE259349F600829E47 /* ezgif-3-f73a5a3fbf19-gif-jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C141BAD259349F600829E47 /* ezgif-3-f73a5a3fbf19-gif-jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2C141BA12593490900829E47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C141BA42593490900829E47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C141BA62593490900829E47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C141BAD259349F600829E47 /* ezgif-3-f73a5a3fbf19-gif-jpg */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "ezgif-3-f73a5a3fbf19-gif-jpg"; path = "../../ezgif-3-f73a5a3fbf19-gif-jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2C141B9C2593490200829E47 /* ViewController.swift */,
 				2C141B9E2593490200829E47 /* Main.storyboard */,
 				2C141BA12593490900829E47 /* Assets.xcassets */,
+				2C141BAD259349F600829E47 /* ezgif-3-f73a5a3fbf19-gif-jpg */,
 				2C141BA32593490900829E47 /* LaunchScreen.storyboard */,
 				2C141BA62593490900829E47 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C141BA52593490900829E47 /* LaunchScreen.storyboard in Resources */,
+				2C141BAE259349F600829E47 /* ezgif-3-f73a5a3fbf19-gif-jpg in Resources */,
 				2C141BA22593490900829E47 /* Assets.xcassets in Resources */,
 				2C141BA02593490200829E47 /* Main.storyboard in Resources */,
 			);
